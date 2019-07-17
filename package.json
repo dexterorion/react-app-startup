@@ -1,0 +1,19 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "This project provides an example of react app development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dexterorion/react-app-startup.git"
+  },
+  "author": "Vinny Nordi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexterorion/react-app-startup/issues"
+  },
+  "homepage": "https://github.com/dexterorion/react-app-startup#readme"
+}
